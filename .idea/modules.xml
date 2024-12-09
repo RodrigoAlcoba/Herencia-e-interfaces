@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/clases abstractas e interfaces.iml" filepath="$PROJECT_DIR$/.idea/clases abstractas e interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/herencia_clases_abstractas/herencia_clases_abstractas.iml" filepath="$PROJECT_DIR$/herencia_clases_abstractas/herencia_clases_abstractas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/herencia_clases_abstractas_Tarea/herencia_clases_abstractas_Tarea.iml" filepath="$PROJECT_DIR$/herencia_clases_abstractas_Tarea/herencia_clases_abstractas_Tarea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo_herencia/poo_herencia.iml" filepath="$PROJECT_DIR$/poo_herencia/poo_herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo_herencia_tarea/poo_herencia_tarea.iml" filepath="$PROJECT_DIR$/poo_herencia_tarea/poo_herencia_tarea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo_interfaces/poo_interfaces.iml" filepath="$PROJECT_DIR$/poo_interfaces/poo_interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/poo_interfaces_repositorio/poo_interfaces_repositorio.iml" filepath="$PROJECT_DIR$/poo_interfaces_repositorio/poo_interfaces_repositorio.iml" />
+    </modules>
+  </component>
+</project>
